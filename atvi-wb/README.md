@@ -2,7 +2,7 @@
 
 I. Abra o console do projeto, na pasta atvi-wb, execute o comando:
 ```console
-    npm npm install
+     npm install
 ```
 II. Compile o código, ainda na pasta atvi-wb:
 ```console
