@@ -2,11 +2,11 @@
 
 ATIVIDADE I WB
 
-I. Abra o console do projeto, na pasta atvi-wb, execute o comando:
+I. No terminal do projeto, na pasta atvi-wb, execute o comando:
 ```console
     npm install
 ```
-II. Compile o código, ainda na pasta atvi-wb:
+II. Compile o código e gere a pasta out, ainda na pasta atvi-wb:
 ```console
     tsc
 ```
