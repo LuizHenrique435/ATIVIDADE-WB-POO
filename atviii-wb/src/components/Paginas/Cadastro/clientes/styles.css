@@ -5,7 +5,7 @@ form{
     flex-direction: column;
     align-items: center;
     gap: 10px;
-    border: 5px;
+    border: 1px;
     border-style: solid;
     border-color: black;
     padding: 20px;
@@ -26,7 +26,7 @@ form{
 }
 
 .field input:focus, select:focus{
-    border-bottom: 3px solid white;
+    border-bottom: 1px solid white;
 }
 
 .submit{

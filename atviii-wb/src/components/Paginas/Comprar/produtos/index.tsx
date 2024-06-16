@@ -8,7 +8,7 @@ function ComprarProdutos(){
           <BarraNav />
         </header>
         <main>
-          <h1>Comprar Produto</h1>
+        <h1>Comprar Produto</h1>
           <div className="forms">
             <form>
               <div className="field">
@@ -30,7 +30,7 @@ function ComprarProdutos(){
                   <option>5</option>
                 </select>
               </div>
-              <Button className="submit" variant="outline-dark" type="submit">
+              <Button className="submit" variant="btn btn-success" type="submit">
                 Comprar
               </Button>{" "}
             </form>

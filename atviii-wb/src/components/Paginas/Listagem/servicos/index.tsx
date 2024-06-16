@@ -11,7 +11,7 @@ function Servicos() {
       <main>
       <h1>Serviços</h1>
                 <div className="tables">
-                    <Table striped bordered hover variant="light">
+                    <Table striped bordered hover variant="table table-dark table-hover">
                         <thead>
                             <tr>
                             <th>Id</th>

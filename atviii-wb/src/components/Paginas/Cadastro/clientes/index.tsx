@@ -10,7 +10,7 @@ function CadastrarClientes(){
                 <BarraNav/>
             </header>
             <main>
-                <h1>Cadastrar Cliente</h1>
+            <h1>Cadastrar Cliente</h1>
                 <div className="forms">
                     <form>
                         <div className="field">
@@ -45,7 +45,8 @@ function CadastrarClientes(){
                             <label htmlFor="Telefone">Telefone:</label>
                             <input type="text"/>
                         </div>
-                        <Button className="submit" variant="outline-dark" type='submit'>Cadastrar</Button>{' '}
+                        <Button className="submit" variant="btn btn-success" type='submit'>Cadastrar</Button>{' '}
+                        
                     </form>
                 </div>
             </main>

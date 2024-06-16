@@ -11,7 +11,7 @@ function Produtos(){
             <main>
             <h1>Produtos</h1>
                 <div className="tables">
-                    <Table striped bordered hover variant="light">
+                    <Table striped bordered hover variant="table table-dark table-hover">
                         <thead>
                             <tr>
                             <th>Id</th>

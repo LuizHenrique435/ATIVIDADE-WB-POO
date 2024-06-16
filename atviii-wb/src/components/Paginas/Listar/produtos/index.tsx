@@ -12,7 +12,7 @@ function ListarProdutos() {
       <main>
       <h1>Lista de todos os pedidos de produtos por cliente</h1>
           <div className="tables">
-            <Table striped bordered hover variant="light">
+            <Table striped bordered hover variant="table table-dark table-hover">
               <thead>
                 <tr>
                 <th>Id</th>
@@ -43,7 +43,7 @@ function ListarProdutos() {
                       </a>
                     </div>
                     <div className="Column">
-                      <Button variant="outline-success">Visualizar produtos</Button>{" "}
+                      <Button variant="outline-light">Visualizar produtos</Button>{" "}
                     </div>
                   </td>
                 </tr>
@@ -66,7 +66,7 @@ function ListarProdutos() {
                       </a>
                     </div>
                     <div className="Column">
-                      <Button variant="outline-success">Visualizar produtos</Button>{" "}
+                      <Button variant="outline-light">Visualizar produtos</Button>{" "}
                     </div>
                   </td>
                 </tr>
@@ -89,7 +89,7 @@ function ListarProdutos() {
                       </a>
                     </div>
                     <div className="Column">
-                        <Button variant="outline-success">Visualizar produtos</Button>{" "}
+                        <Button variant="outline-light">Visualizar produtos</Button>{" "}
                     </div>
                   </td>
                 </tr>
@@ -112,7 +112,7 @@ function ListarProdutos() {
                       </a>
                     </div>
                     <div className="Column">
-                        <Button variant="outline-success">Visualizar produtos</Button>{" "}
+                        <Button variant="outline-light">Visualizar produtos</Button>{" "}
                     </div>
                   </td>
                 </tr>
@@ -135,7 +135,7 @@ function ListarProdutos() {
                       </a>
                     </div>
                     <div className="Column">
-                        <Button variant="outline-success">Visualizar produtos</Button>{" "}
+                        <Button variant="outline-light">Visualizar produtos</Button>{" "}
                     </div>
                   </td>
                 </tr>
@@ -158,7 +158,7 @@ function ListarProdutos() {
                       </a>
                     </div>
                     <div className="Column">
-                        <Button variant="outline-success">Visualizar produtos</Button>{" "}
+                        <Button variant="outline-light">Visualizar produtos</Button>{" "}
                     </div>
                   </td>
                 </tr>

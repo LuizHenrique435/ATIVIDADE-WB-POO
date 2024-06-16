@@ -12,7 +12,7 @@ function Home() {
       <main>
       <h1>Gerenciamento de listas</h1>
           <div className="tables">
-            <Table striped bordered hover variant="light">
+            <Table striped bordered hover variant="table table-dark table-hover">
               <thead>
                 <tr>
                   <th>Listas Disponiveis</th>
@@ -29,7 +29,7 @@ function Home() {
                       </a>
                     </div>
                     <div className="Column">
-                      <Button variant="outline-info" href="##">
+                      <Button variant="btn btn-primary" href="##">
                         Gerar
                       </Button>{" "}
                     </div>
@@ -44,7 +44,7 @@ function Home() {
                       </a>
                     </div>
                     <div className="Column">
-                      <Button variant="outline-info" href="##">
+                      <Button variant="btn btn-primary" href="##">
                         Gerar
                       </Button>{" "}
                     </div>
@@ -59,7 +59,7 @@ function Home() {
                       </a>
                     </div>
                     <div className="Column">
-                      <Button variant="outline-info" href="##">
+                      <Button variant="btn btn-primary" href="##">
                         Gerar
                       </Button>{" "}
                     </div>
@@ -74,7 +74,7 @@ function Home() {
                       </a>
                     </div>
                     <div className="Column">
-                      <Button variant="outline-info" href="##">
+                      <Button variant="btn btn-primary" href="##">
                         Gerar
                       </Button>{" "}
                     </div>
@@ -89,7 +89,7 @@ function Home() {
                       </a>
                     </div>
                     <div className="Column">
-                      <Button variant="outline-info" href="##">
+                      <Button variant="btn btn-primary" href="##">
                         Gerar
                       </Button>{" "}
                     </div>
@@ -104,7 +104,7 @@ function Home() {
                       </a>
                     </div>
                     <div className="Column">
-                      <Button variant="outline-info" href="##">
+                      <Button variant="btn btn-primary" href="##">
                         Gerar
                       </Button>{" "}
                     </div>

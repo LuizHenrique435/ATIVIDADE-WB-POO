@@ -12,7 +12,7 @@ function ListarServicos() {
       <main>
       <h1>Lista de todos os pedidos de servicos por cliente</h1>
           <div className="tables">
-            <Table striped bordered hover variant="light">
+            <Table striped bordered hover variant="table table-dark table-hover">
               <thead>
                 <tr>
                 <th>Id</th>
@@ -43,7 +43,7 @@ function ListarServicos() {
                       </a>
                     </div>
                     <div className="Column">
-                      <Button variant="outline-success">Visualizar servicos</Button>{" "}
+                      <Button variant="outline-light">Visualizar servicos</Button>{" "}
                     </div>
                   </td>
                 </tr>
@@ -66,7 +66,7 @@ function ListarServicos() {
                       </a>
                     </div>
                     <div className="Column">
-                      <Button variant="outline-success">Visualizar servicos</Button>{" "}
+                      <Button variant="outline-light">Visualizar servicos</Button>{" "}
                     </div>
                   </td>
                 </tr>
@@ -89,7 +89,7 @@ function ListarServicos() {
                       </a>
                     </div>
                     <div className="Column">
-                        <Button variant="outline-success">Visualizar servicos</Button>{" "}
+                        <Button variant="outline-light">Visualizar servicos</Button>{" "}
                     </div>
                   </td>
                 </tr>
@@ -112,7 +112,7 @@ function ListarServicos() {
                       </a>
                     </div>
                     <div className="Column">
-                        <Button variant="outline-success">Visualizar servicos</Button>{" "}
+                        <Button variant="outline-light">Visualizar servicos</Button>{" "}
                     </div>
                   </td>
                 </tr>
@@ -135,7 +135,7 @@ function ListarServicos() {
                       </a>
                     </div>
                     <div className="Column">
-                        <Button variant="outline-success">Visualizar servicos</Button>{" "}
+                        <Button variant="outline-light">Visualizar servicos</Button>{" "}
                     </div>
                   </td>
                 </tr>
@@ -158,7 +158,7 @@ function ListarServicos() {
                       </a>
                     </div>
                     <div className="Column">
-                        <Button variant="outline-success">Visualizar servicos</Button>{" "}
+                        <Button variant="outline-light">Visualizar servicos</Button>{" "}
                     </div>
                   </td>
                 </tr>
