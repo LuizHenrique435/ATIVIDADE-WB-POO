@@ -33,7 +33,7 @@ export class ComprarServicos extends Component {
                   <option>5</option>
                 </select>
               </div>
-              <Button className="submit" variant="outline-dark" type="submit">
+              <Button className="submit" variant="btn btn-success" type="submit">
                 Comprar
               </Button>{" "}
             </form>

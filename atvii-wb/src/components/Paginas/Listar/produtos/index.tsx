@@ -14,7 +14,7 @@ export class ListarProdutos extends Component {
         <main>
           <h1>Lista de todos os pedidos de produtos por cliente</h1>
           <div className="tables">
-            <Table striped bordered hover variant="light">
+            <Table striped bordered hover variant="table table-dark table-hover">
               <thead>
                 <tr>
                 <th>Id</th>
@@ -45,7 +45,7 @@ export class ListarProdutos extends Component {
                       </a>
                     </div>
                     <div className="Column">
-                      <Button variant="outline-success">Visualizar produtos</Button>{" "}
+                      <Button variant="outline-light">Visualizar produtos</Button>{" "}
                     </div>
                   </td>
                 </tr>
@@ -68,7 +68,7 @@ export class ListarProdutos extends Component {
                       </a>
                     </div>
                     <div className="Column">
-                      <Button variant="outline-success">Visualizar produtos</Button>{" "}
+                      <Button variant="outline-light">Visualizar produtos</Button>{" "}
                     </div>
                   </td>
                 </tr>
@@ -91,7 +91,7 @@ export class ListarProdutos extends Component {
                       </a>
                     </div>
                     <div className="Column">
-                        <Button variant="outline-success">Visualizar produtos</Button>{" "}
+                        <Button variant="outline-light">Visualizar produtos</Button>{" "}
                     </div>
                   </td>
                 </tr>
@@ -114,7 +114,7 @@ export class ListarProdutos extends Component {
                       </a>
                     </div>
                     <div className="Column">
-                        <Button variant="outline-success">Visualizar produtos</Button>{" "}
+                        <Button variant="outline-light">Visualizar produtos</Button>{" "}
                     </div>
                   </td>
                 </tr>
@@ -137,7 +137,7 @@ export class ListarProdutos extends Component {
                       </a>
                     </div>
                     <div className="Column">
-                        <Button variant="outline-success">Visualizar produtos</Button>{" "}
+                        <Button variant="outline-light">Visualizar produtos</Button>{" "}
                     </div>
                   </td>
                 </tr>
@@ -160,7 +160,7 @@ export class ListarProdutos extends Component {
                       </a>
                     </div>
                     <div className="Column">
-                        <Button variant="outline-success">Visualizar produtos</Button>{" "}
+                        <Button variant="outline-light">Visualizar produtos</Button>{" "}
                     </div>
                   </td>
                 </tr>

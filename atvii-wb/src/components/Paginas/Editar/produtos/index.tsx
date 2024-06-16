@@ -13,7 +13,7 @@ export class EditarProduto extends Component {
             </header>
             <main>
                 <h1>Editar Produto</h1>
-                <Button  variant="outline-dark" href='/Produtos'>Voltar</Button>
+                <Button  variant="btn btn-secondary" href='/Produtos'>Voltar</Button>
                 <div className="forms">
                     <form>
                         <div className="field">
@@ -24,7 +24,7 @@ export class EditarProduto extends Component {
                             <label htmlFor="Preco">Preço:</label>
                             <input type="text" defaultValue="50"/>
                         </div>
-                        <Button className="submit" variant="outline-dark" href='/Produtos' type='submit'>Concluir</Button>{' '}
+                        <Button className="submit" variant="btn btn-success" href='/Produtos' type='submit'>Concluir</Button>{' '}
                     </form>
                 </div>
             </main>

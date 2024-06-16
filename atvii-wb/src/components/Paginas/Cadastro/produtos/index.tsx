@@ -23,7 +23,7 @@ export class CadastrarProdutos extends Component {
                             <label htmlFor="Preco">Preço:</label>
                             <input type="text"/>
                         </div>
-                        <Button className="submit" variant="outline-dark" type='submit'>Cadastrar</Button>{' '}
+                        <Button className="submit" variant="btn btn-success" type='submit'>Cadastrar</Button>{' '}
                     </form>
                 </div>
             </main>

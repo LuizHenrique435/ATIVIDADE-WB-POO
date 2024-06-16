@@ -13,7 +13,7 @@ export class EditarCliente extends Component {
             </header>
             <main>
                 <h1>Editar Cliente</h1>
-                <Button  variant="outline-dark" href='/clientes'>Voltar</Button>
+                <Button  variant="btn btn-secondary" href='/clientes'>Voltar</Button>
                 <div className="forms">
                     <form>
                         <div className="field">
@@ -48,7 +48,7 @@ export class EditarCliente extends Component {
                             <label htmlFor="Telefone">Telefone:</label>
                             <input type="text" defaultValue="(11) 985591546"/>
                         </div>
-                        <Button className="submit" variant="outline-dark" href='/clientes' type='submit'>Concluir</Button>{' '}
+                        <Button className="submit" variant="btn btn-success" href='/clientes' type='submit'>Concluir</Button>{' '}
                     </form>
                 </div>
             </main>
