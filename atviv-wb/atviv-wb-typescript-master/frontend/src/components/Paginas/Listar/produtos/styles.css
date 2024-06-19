@@ -1,0 +1,28 @@
+main h1{
+    margin-top: 50px;
+}
+
+.tables{
+    margin: 25px 10px;
+    
+}
+.icons{
+
+    display: none;
+    flex-direction: column;
+}
+
+
+ @media (max-width: 632px) {
+    .Column{
+        display: none;
+        flex-direction: column;
+        gap: 5px;
+    }
+
+    .icons{
+        display: flex
+    }
+    
+
+}; 

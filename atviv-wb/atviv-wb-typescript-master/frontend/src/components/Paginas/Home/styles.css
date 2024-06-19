@@ -1,0 +1,44 @@
+section{
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
+}
+
+main{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #b6b6b9;   
+}
+
+.text{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.text h2{
+    width: 80%;
+}
+
+.wrapper{
+    margin-top: 35px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.listagem, 
+.cadastrar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
+.mb-2{
+    margin-top: 25px;
+}
