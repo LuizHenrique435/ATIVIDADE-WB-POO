@@ -1,0 +1,11 @@
+.formulario-cadastro-cliente {
+    background-color: white;
+    color: black;
+    border: 1px solid #212529;
+  }
+  
+  .formulario-cadastro-cliente .btn {
+    background-color: #26A69A;
+    color: #FFFFFF;
+  }
+  
